@@ -1,0 +1,9 @@
+{
+  "name": "daily-tasks",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "node --check src/scripts/app.js",
+    "build": "echo Static site, build OK",
+    "test": "node --test"
+  }
+}
